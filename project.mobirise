@@ -191,7 +191,7 @@
             },
             "H3": {
               "color": "#efefef",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "header3",
