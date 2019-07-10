@@ -1767,16 +1767,9 @@ body {
   }
 }
 .cid-rvPQ7aPLqy {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background: linear-gradient(45deg, #dbd4b8, #55b4d4);
-}
-.cid-rvPQ7aPLqy .main {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-.cid-rvPQ7aPLqy .main .mbr-section-btn {
-  text-align: right;
 }
 .cid-rvPQ7aPLqy .btn {
   margin: 0 0 .5rem 0;
