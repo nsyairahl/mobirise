@@ -1734,7 +1734,7 @@ body {
 }
 .cid-rDz0K59gd0 {
   padding-top: 75px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #f9eecb;
 }
 .cid-rDz0K59gd0 .mbr-slider .carousel-control {
@@ -1767,7 +1767,7 @@ body {
   background: transparent !important;
 }
 .cid-rDz0K59gd0 .mbr-gallery-item > div:hover:before {
-  opacity: 0.5 !important;
+  opacity: 0.3 !important;
 }
 .cid-rDz0K59gd0 .mbr-gallery-title {
   font-size: .9em;
@@ -1788,7 +1788,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.5;
+  opacity: 0.3;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
